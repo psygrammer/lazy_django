@@ -13,6 +13,7 @@
   - https://github.com/psygrammer/lazy_django
   - create_lazy_django.sh 파일의 볼륨 설정을 자신에 맞게 바꿔준다.
     - pycharm의 프로젝트 워킹디렉토리랑 연결하는 것을 추천함. 
+      - -v your_path/PycharmProjects:/root/work 
   - 그리고 실행 
     - sh create_lazy_django.sh
 
