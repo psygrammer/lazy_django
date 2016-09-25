@@ -1,4 +1,4 @@
-﻿Two Scoops of Django - 모범 사례로 배우는 Django(장고) 테크닉
+Two Scoops of Django - 모범 사례로 배우는 Django(장고) 테크닉
 ==============================================================
 
 ### Code Sample
